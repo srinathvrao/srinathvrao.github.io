@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What I do during the day"
+title: "What I do"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

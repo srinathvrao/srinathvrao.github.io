@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Computer Science with Informatics Practices(Java, MySQL, HTML/CSS), P. S. Senior Secondary School, Mylapore, Chennai, 2015-17
+* Computer Science with Informatics Practices, P. S. Senior Secondary School, Mylapore, Chennai, 2017
 * B. Tech. in Information Technology, 2021
 
 Project experience

@@ -54,10 +54,10 @@ Skills
 
 Organizations
 ======
-* Lights Out Please - The Theatre Club of SSN
+* Crew member of Lights Out Please - The Theatre Club of SSN
 * Q! - The SSN Quiz Club
-* SSN Coding Community
 * ProCoDe - The programming club of the IT department of SSN
+* SSN Coding Community
 
 Service and leadership
 ======

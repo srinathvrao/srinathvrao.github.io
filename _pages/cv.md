@@ -34,7 +34,7 @@ Work experience
 ======
 * October 2017 : Android Application Developer Intern
     * Indian Mistry
-    * Duties included: Working on app to book services online such as Plumber, Carpenter, etc. Linking with Firebase
+    * Duties included: Working on app to book services such as Electricians, Plumbers, etc. Learnt to use Google's Places API.
     * Supervisor: Kapil Arora
   
 Skills

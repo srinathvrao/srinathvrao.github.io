@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What I do"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,6 +21,7 @@ Projects/courses I'm working on/doing right now:
 1. Facial Attendance Manager(FAM) - Building face recognition models.
 1. SSN MUN 2019 Website - on a flask server.
 1. Machine Learning on Coursera by Andrew Ng, Stanford.
+1. Competitive Programming on [codeforces](https://codeforces.com/profile/srinath2309).
 
 Completed stuff
 ======

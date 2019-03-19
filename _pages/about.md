@@ -30,4 +30,4 @@ Stuff I've done in the past:
 1. [WhoIsInIt](https://github.com/srinathvrao/WhoIsInIt) - Android app that performs Real-Time Face Recognition using a 1024-dimensional face embedding from Clairfai's API. Also connected to a Firebase Database to keep track of attendance.
 1. [SSN MUN 2018 Website](https://github.com/srinathvrao/SSN-MUN-2018) - A website made for my college's Model UN. Made with ReactJS and Love. Hosted on a DigitalOcean instance.
 1. PharmAssist - Android app that keeps track of medicine dosages and keeps track of whether you've taken the medicine at a given time of the day.
-1. [safefam](https://github.com/srinathvrao/safefam) - Android app that finds the safest route you can take to reach a destination, using factors like history of crimes at different places, places with high movement of people, etc.
+1. [SafeFam](https://github.com/srinathvrao/safefam) - Android app that finds the safest route you can take to reach a destination, using factors like history of crimes at different places, places with high movement of people, etc.

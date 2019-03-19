@@ -16,33 +16,50 @@ Education
 
 Project experience
 ======
+* March 2019: SafeFam
+    * Android app to find safest route to a destination.
+    * Using Google maps API
+* February 2019: PharmAssist
+    * Android app to keep track of medicine dosages.
+    * App is also compatible with NFC tags.
+    * Also has text-to-speech support.
 * December 2018: WhoIsInIt
-    * Face Recognition for Android
-    * Clarifai API
-* 
+    * Real-Time Face Recognition for Android
+    * Face Embeddings from Clarifai API
+* July 2018: SSNMUN'18 Website
+    * Made with React native for web
+    * Server hosted on DigitalOcean instance.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2017 : Android Application Developer Intern
+    * Indian Mistry
+    * Duties included: Working on app to book services online such as Plumber, Carpenter, etc. Linking with Firebase
+    * Supervisor: Kapil Arora
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Android Studio
+    * Firebase Real-Time Database
+    * Calling APIs
+    * Asynchronous event handling
+* Firebase Real-Time Database
+* Competitive Programming
+* C/C++
+* Java
+* Python3
+* ReactJS
+* HTML/CSS/BS/JS
+* MySQL
+
+Organizations
+======
+* Lights Out Please - The Theatre Club of SSN
+* Q! - The SSN Quiz Club
+* SSN Coding Community
+* ProCoDe - The programming club of the IT department of SSN
 
 Service and leadership
 ======
-* Currently appointed as Under Secretary General of Tech Committee in SSN MUN 2019
-* 
+* Currently appointed as Under Secretary General of Tech Committee in SSNMUN'19.
+* Received certificate for completion of Internship in Oct 2017

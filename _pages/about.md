@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 I make Android apps, and toast bread when bored.
-I solve [the rubik's cube](https://www.worldcubeassociation.org/persons/2015SRIN10) when I get frustrated.
+I solve [the rubik's cube](https://www.worldcubeassociation.org/persons/2015SRIN10) when I get frustrated with life.
 I do [codeforces](https://codeforces.com/profile/srinath2309) for fun.
 
 I love all things to do with Face Detection and Recognition, and Object Detection.
 
 Ongoing stuff
 ======
-Projects/courses I'm working on/doing right now:
+Stuff I'm doing right now:
 
 1. Facial Attendance Manager(FAM) - Building face recognition models.
 1. SSN MUN 2019 Website - on a flask server.
@@ -25,7 +25,7 @@ Projects/courses I'm working on/doing right now:
 
 Completed stuff
 ======
-Projects I've done in the past:
+Stuff I've done in the past:
 
 1. [WhoIsInIt](https://github.com/srinathvrao/WhoIsInIt) - Android app that performs Real-Time Face Recognition using a 1024-dimensional face embedding from Clairfai's API. Also connected to a Firebase Database to keep track of attendance.
 1. [SSN MUN 2018 Website](https://github.com/srinathvrao/SSN-MUN-2018) - A website made for my college's Model UN. Made with ReactJS and Love. Hosted on a DigitalOcean instance.

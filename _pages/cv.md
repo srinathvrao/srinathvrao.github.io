@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Computer Science with Informatics Practices, P. S. Senior Secondary School, Mylapore, Chennai, 2017
-* B. Tech. in Information Technology, 2021
+* B. Tech. in Information Technology, SSN College of Engineering (Anna University), 2021
 
 Project experience
 ======

@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I make Android apps, and toast bread when bored.
 I solve [the rubik's cube](https://www.worldcubeassociation.org/persons/2015SRIN10) when I get frustrated with life.
 I do [codeforces](https://codeforces.com/profile/srinath2309) for fun.

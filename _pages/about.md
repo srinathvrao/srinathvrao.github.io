@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Srinath, an Information Technology undergrad student (2017-2021) from SSN College of Engineering (Anna University).
+I'm Srinath, an Information Technology undergrad student from SSN College of Engineering (Anna University, 2017-2021).
 
 I build Android apps for myself and for others.
 I solve [the rubik's cube](https://www.worldcubeassociation.org/persons/2015SRIN10) when bored.

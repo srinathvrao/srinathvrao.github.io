@@ -7,26 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I make Android apps, and toast bread when bored.
-I solve [the rubik's cube](https://www.worldcubeassociation.org/persons/2015SRIN10) when I get frustrated with life.
-I do [codeforces](https://codeforces.com/profile/srinath2309) for fun.
 
-I love all things to do with Face Detection and Recognition, and Object Detection.
+I'm Srinath, an Information Technology undergrad student (2017-2021) from SSN College of Engineering (Anna University).
 
-Ongoing stuff
-======
-Stuff I'm doing right now:
+I build Android apps for myself and for others.
+I solve [the rubik's cube](https://www.worldcubeassociation.org/persons/2015SRIN10) when bored.
+I help out The [Theatre Club of my college](https://www.instagram.com/ssnlightsoutplease) as a part of the crew, frequently.
 
-1. Facial Attendance Manager(FAM) - Building face recognition models.
-1. SSN MUN 2019 Website - on a flask server.
-1. Machine Learning on Coursera by Andrew Ng, Stanford.
-1. Competitive Programming on [codeforces](https://codeforces.com/profile/srinath2309).
-
-Completed stuff
-======
-Stuff I've done in the past:
-
-1. [WhoIsInIt](https://github.com/srinathvrao/WhoIsInIt) - Android app that performs Real-Time Face Recognition using a 1024-dimensional face embedding from Clairfai's API. Also connected to a Firebase Database to keep track of attendance.
-1. [SSN MUN 2018 Website](https://github.com/srinathvrao/SSN-MUN-2018) - A website made for my college's Model UN. Made with React-Native-Web and Love. Hosted on a DigitalOcean instance.
-1. PharmAssist - Android app that keeps track of medicine dosages and keeps track of whether you've taken the medicine at a given time of the day.
-1. [SafeFam](https://github.com/srinathvrao/safefam) - Android app that finds the safest route you can take to reach a destination, using factors like history of crimes at different places, places with high movement of people, etc.
+Currently seeking an Image Processing and Machine Learning Internship.

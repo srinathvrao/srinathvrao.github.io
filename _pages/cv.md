@@ -32,10 +32,10 @@ Project experience
 
 Work experience
 ======
-* October 2017 : Android Application Developer Intern
-    * Indian Mistry
-    * Duties included: Working on app to book services such as Electricians, Plumbers, etc. Learnt to use Google's Places API.
-    * Supervisor: Kapil Arora
+* Jun - Aug 2019 : Computer Vision Research Intern
+    * Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram
+    * Duties included: Literature survey, implementing newer methods to solve the problem of Gender Classification using Face images in the near infrared spectrum.
+    * Supervisor: Dr. Umarani Jayaraman
   
 Skills
 ======

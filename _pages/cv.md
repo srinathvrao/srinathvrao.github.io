@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am Srinath V, and this is my CV.
+
+I am Srinath V, and this is my C V.
+
 Education
 ======
 * Computer Science with Informatics Practices, P. S. Senior Secondary School, Mylapore, Chennai, 2017

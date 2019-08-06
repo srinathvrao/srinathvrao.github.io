@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am Srinath V, and this is my C V.
+<strong>Hi! I'm Srinath, and this is my CV.</strong>
 
 Education
 ======
@@ -18,28 +18,28 @@ Education
 
 Project experience
 ======
-* February 2019: PharmAssist
+* <strong>February 2019: PharmAssist</strong>
     * Android app to keep track of medicine dosages.
     * Compatible with NFC tags.
     * Text-To-Speech support.
-    * Winner in Indian-subcontinent, AngelHack Global Virtual Hackathon.
-    * Runner-up, AWS Global Challenge. Won AWS-Branded Limited Edition Keyboards.
-* March 2019: SafeFam
+    * <strong>Winner in Indian-subcontinent, AngelHack Global Virtual Hackathon.</strong>
+    * <strong>Runner-up, AWS Global Challenge. Won AWS-Branded Limited Edition Keyboards.</strong>
+* <strong>March 2019: SafeFam</strong>
     * Android app to find safest route to a destination.
     * Google maps API.
-* December 2018: WhoIsInIt
+* <strong>December 2018: WhoIsInIt</strong>
     * Real-Time Face Recognition, Android.
     * Face Embeddings, Clarifai API.
-* July 2019: SSNMUN'19 Website
+* <strong>July 2019: SSNMUN'19 Website</strong>
     * Python-Flask / MongoDB.
     * Hosted on DigitalOcean.
-* July 2018: SSNMUN'18 Website
+* <strong>July 2018: SSNMUN'18 Website</strong>
     * React native for web.
     * Hosted on DigitalOcean.
 
 Work experience
 ======
-* Jun - Aug 2019 : Computer Vision Research Intern
+* <strong>Jun - Aug 2019 : Computer Vision Research Intern</strong>
     * Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram
     * Duties included: Literature survey, implementing newer methods to solve the problem of Gender Classification using Face images in the near infrared spectrum.
     * Supervisor: Dr. Umarani Jayaraman

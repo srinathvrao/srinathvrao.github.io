@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+I am Srinath V, and this is my CV.
 Education
 ======
 * Computer Science with Informatics Practices, P. S. Senior Secondary School, Mylapore, Chennai, 2017
@@ -16,19 +16,24 @@ Education
 
 Project experience
 ======
-* March 2019: SafeFam
-    * Android app to find safest route to a destination.
-    * Using Google maps API
 * February 2019: PharmAssist
     * Android app to keep track of medicine dosages.
-    * App is also compatible with NFC tags.
-    * Also has text-to-speech support.
+    * Compatible with NFC tags.
+    * Text-To-Speech support.
+    * Winner in Indian-subcontinent, AngelHack Global Virtual Hackathon.
+    * Runner-up, AWS Global Challenge. Won AWS-Branded Limited Edition Keyboards.
+* March 2019: SafeFam
+    * Android app to find safest route to a destination.
+    * Google maps API.
 * December 2018: WhoIsInIt
-    * Real-Time Face Recognition for Android
-    * Face Embeddings from Clarifai API
+    * Real-Time Face Recognition, Android.
+    * Face Embeddings, Clarifai API.
+* July 2019: SSNMUN'19 Website
+    * Python-Flask / MongoDB.
+    * Hosted on DigitalOcean.
 * July 2018: SSNMUN'18 Website
-    * Made with React native for web
-    * Server hosted on DigitalOcean instance.
+    * React native for web.
+    * Hosted on DigitalOcean.
 
 Work experience
 ======
@@ -39,27 +44,29 @@ Work experience
   
 Skills
 ======
-* Android Studio
-    * Firebase Real-Time Database
-    * Calling APIs
-    * Asynchronous event handling
-* Firebase Real-Time Database
-* Competitive Programming
+* Android Studio / Firebase
+* Alexa Developer Console / AWS Lambda
 * C/C++
 * Java
 * Python3
-* ReactJS
+    * Flask / MongoDB
 * HTML/CSS/BS/JS
-* MySQL
+
+Hobbies and interests
+======
+* Rubik's Cube
+* Badminton
+* TV Shows, Music, Anime
+* Solving the Rubik's Cube again
+
+Service and leadership
+======
+* Under Secretary General, Tech, SSNMUN'19.
+* Organizer, SSN Cube Open '19.
 
 Organizations
 ======
 * Crew member of Lights Out Please - The Theatre Club of SSN
 * Q! - The SSN Quiz Club
-* ProCoDe - The programming club of the IT department of SSN
 * SSN Coding Community
-
-Service and leadership
-======
-* Currently appointed as Under Secretary General of Tech Committee in SSNMUN'19.
-* Received certificate for completion of Internship in Oct 2017
+* Chennai Cubing Club (C^3)

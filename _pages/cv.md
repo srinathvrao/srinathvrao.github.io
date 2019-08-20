@@ -22,8 +22,8 @@ Project experience
     * Android app to keep track of medicine dosages.
     * Compatible with NFC tags.
     * Text-To-Speech support.
-    * <strong>Winner in Indian-subcontinent, AngelHack Global Virtual Hackathon.</strong>
-    * <strong>Runner-up, AWS Global Challenge. Won AWS-Branded Limited Edition Keyboards.</strong>
+    * <strong>Winner in Indian-subcontinent, AngelHack Global Virtual Hackathon. Selected for AngelHack's HACKcelerator program.</strong>
+    * <strong>Runner-up, AWS Global Challenge. Won AWS customized Deep Learning enabled video camera.</strong>
 * <strong>March 2019: SafeFam</strong>
     * Android app to find safest route to a destination.
     * Google maps API.

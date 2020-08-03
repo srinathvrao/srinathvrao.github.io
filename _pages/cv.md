@@ -20,18 +20,18 @@ Education
 
 Work experience
 ======
-* <strong>May 2020 - July 2020 : Summer Analyst</strong>
-    * AstraZeneca, Chennai
-    * Duties included: Worked on projects in the field of Cheminformatics and BioInformatics. Worked on Estimation of Intrinsic Permeability of chemical compounds across the Caco-2 cell. Also worked on Somatic point Mutation based Cancer Classification on The TCGA-DeepGene dataset.
-    * Supervisor: Mr. Uma Shankar Kesavan
 * <strong>Jun 2019 - Present : Research Intern</strong>
-    * Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram
-    * Duties included: Worked on the problem of heterogeneous (cross-spectrum) face recognition. Submitted a paper which is currently under review by The Journal of Information Security and Applications (JISA). Preprint available on request.
-    * Supervisor: Dr. Umarani Jayaraman
+    * <strong>Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram</strong>
+    * <strong>Duties included:</strong> Worked on the problem of heterogeneous (cross-spectrum) face recognition. Submitted a paper which is currently under review by The Journal of Information Security and Applications (JISA). Preprint available on request.
+    * <strong>Supervisor:</strong> Dr. Umarani Jayaraman
+* <strong>May 2020 - July 2020 : Summer Analyst</strong>
+    * <strong>AstraZeneca, Chennai</strong>
+    * <strong>Duties included:</strong> Worked on projects in the field of Cheminformatics and BioInformatics. Worked on Estimation of Intrinsic Permeability of chemical compounds across the Caco-2 cell. Also worked on Somatic point Mutation based Cancer Classification on The TCGA-DeepGene dataset.
+    * <strong>Supervisor:</strong> Mr. Uma Shankar Kesavan
 * <strong>July 2019 - October 2019 : Full Stack Developer (freelance)</strong>
-    * SSN Model United Nations
-    * Duties included: Lead a team of 4 developers in Engineering a Full Stack application for the Model UN registrations. Built a first-come-first-serve registration scheme that handled 100+ simultaneous requests.
-    * Supervisor: Me! :D
+    * <strong>SSN Model United Nations 2019</strong>
+    * <strong>Duties included:</strong> Lead a team of 4 developers in Engineering a Full Stack application for the Model UN registrations. Built a first-come-first-serve registration scheme that handled 100+ simultaneous requests.
+    * <strong>Supervisor:</strong> Me! :D
 
 Personal Projects
 ======

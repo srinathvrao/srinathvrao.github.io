@@ -45,7 +45,7 @@ Personal Projects
     * Recommending hotels to users on Expedia, based on their searching habits and interactions with the website.
 * <strong>Facial Attendace Manager</strong>
     * College-funded project.
-    * From images captured using a RaspberryPi interfaced with motion sensors.
+    * Recognizing faces from images captured using a RaspberryPi interfaced with motion sensors.
 
 Programming Languages and Technologies
 ======

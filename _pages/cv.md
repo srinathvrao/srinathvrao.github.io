@@ -11,7 +11,7 @@ redirect_from:
 
 Hi there! I'm Currently on a sabbatical from work.
 
-Recently, I've started to like Space Technology (I wonder why. :P). If you know of some simple project I could do, in Space Tech, do email me, or message me on LinkedIn! Thanks! :D
+Recently, I've started to like Space Technology (I wonder why. :P). If you know of some simple project I could do, in Space Tech, do email me, or message me on LinkedIn. Thanks! :D
 
 Education
 ======

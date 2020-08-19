@@ -16,7 +16,7 @@ Recently, I've started to like Space Technology (I wonder why. :P). If you know 
 Education
 ======
 * B. Tech. in Information Technology, SSN College of Engineering (Anna University), 2021
-    * GPA after 5 semesters: 8.2
+    * CGPA after 6 semesters: 8.42/10
 * Computer Science with Informatics Practices, P. S. Senior Secondary School, Mylapore, Chennai, 2017
     * CBSE Board Exam: 480/500 (secured 100/100 in Informatics Practices)
 

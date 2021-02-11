@@ -58,9 +58,9 @@ Programming Languages and Technologies
 
 Hobbies and interests
 ======
-* Rubik's Cube (my best is 11 seconds :p)
-* Reading (recommend some books, I like sci-fi, adventure)
-* Space Exploration (would be cool to work on a project in this field)
+* Rubik's Cube
+* Reading 
+* Space Exploration 
 
 Service and leadership
 ======

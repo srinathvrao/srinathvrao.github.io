@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi there! I'm Currently on a sabbatical from work.
+Hi! This is my CV.
 
 Recently, I've started to like Space Technology (I wonder why. :P). If you know of some simple project I could do, in Space Tech, do email me, or message me on LinkedIn. Thanks! :D
 

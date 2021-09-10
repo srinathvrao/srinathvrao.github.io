@@ -14,7 +14,7 @@ I hope you're doing fine. Please do wear a mask and take precautions until we ge
 
 I'm Srinath, an MS Computer Science student from Arizona State Univeristy (2021-23).
 
-I was a Data Science Intern at [AstraZeneca](https://www.linkedin.com/company/astrazeneca/). I worked on enhancing the performance of an existing pipeline to calculate the intrinsic permeability of chemical compounds across the human intestine. I was also a Computer Vision Research intern, and I co-wrote a paper that got accepted to [IEEE CICT 2020](http://www.cict2020.iiitdm.ac.in/). 
+I was a Data Science Intern at [AstraZeneca](https://www.linkedin.com/company/astrazeneca/). I worked on enhancing the performance of an existing pipeline to calculate the intrinsic permeability of chemical compounds across the human intestine. I was also a Computer Vision Research intern, and I co-wrote a paper on face recognition in dark environments that got accepted to [IEEE CICT 2020](https://ieeexplore.ieee.org/document/9312106). 
 
 I build some fun stuff that I occasionally put [here](https://srinathvrao.github.io/year-archive/).
 

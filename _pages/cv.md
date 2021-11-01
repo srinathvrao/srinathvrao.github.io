@@ -10,7 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! Here's my résumé.
+Hi! 
+You can find a PDF version my resume [here](https://drive.google.com/file/d/1-5CHz7Yrp7IAnbHOkF9sxoZDOIdHsEZr/view?usp=sharing).
+
+I am currently seeking Data Science and Software Engineering internships for the Summer of 2022. You can email me at svenkoba@asu.edu . Looking forward to getting in touch!
 
 Education
 ======
@@ -20,16 +23,16 @@ Education
 
 Work experience
 ======
-* <strong>May 2020 - July 2020 : Data Science Intern</strong>
-    * <strong>AstraZeneca, Chennai</strong>
+* <strong>Data Science Intern</strong>
+    * <strong>AstraZeneca, Chennai, India</strong> May 2020 - July 2020
     * Interned in the Predictive Modelling department of AstraZeneca. Worked on applying Machine Learning algorithms to Drug discovery. Analyzed various clustering algorithms to classify cancers based on genetic mutation data. 
     * Identified and resolved problems with algorithms, and inconsistencies in genetic mutation data. Reduced processing
 time for calculating intrinsic permeability by 50% while maintaining same performance as existing system.
-* <strong>Jun 2019 - Nov 2020 : Research Intern</strong>
-    * <strong>Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram</strong>
+* <strong>Research Intern</strong>
+    * <strong>Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram, India</strong> Jun 2019 - Nov 2020
     * Interned in the Computer Vision research group led by Dr. Umarani Jayaraman, and worked on multi-spectral image recognition. Co-authored a paper titled "Face Recognition in the Dark," and presented it at a conference.
-* <strong>July 2019 - October 2019 : Full Stack Developer</strong>
-    * <strong>SSN Model United Nations 2019</strong>
+* <strong>Full Stack Developer</strong>
+    * <strong>SSN Model United Nations 2019, Chennai, India</strong> July 2019 - October 2019
     * Led a team of 3 developers in building the website for the college’s Model UN, hosted on a DigitalOcean droplet.
 
 Projects

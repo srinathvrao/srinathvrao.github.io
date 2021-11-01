@@ -17,8 +17,10 @@ I'm currently seeking Data Science and Software Engineering internships for the 
 
 Education
 ======
-* M. S. in Computer Science, Arizona State University, Tempe, AZ; 2023
-* B. Tech. in Information Technology, SSN College of Engineering (Anna University), Chennai, India; 2021
+* M. S. in Computer Science
+    * Arizona State University, Tempe, AZ; 2021-2023
+* B. Tech. in Information Technology
+    * Anna University, Chennai, India; 2017-2021
     * CGPA: 8.63/10
 
 Work experience

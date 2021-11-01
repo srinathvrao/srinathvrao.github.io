@@ -4,6 +4,7 @@ title: "resume"
 permalink: /resume/
 author_profile: true
 redirect_from:
+  - /cv/
   - /cv
 ---
 

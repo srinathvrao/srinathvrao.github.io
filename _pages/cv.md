@@ -24,11 +24,9 @@ Work experience
     * Interned in the Predictive Modelling department of AstraZeneca. Worked on applying Machine Learning algorithms to Drug discovery. Analyzed various clustering algorithms to classify cancers based on genetic mutation data. 
     * Identified and resolved problems with algorithms, and inconsistencies in genetic mutation data. Reduced processing
 time for calculating intrinsic permeability by 50% while maintaining same performance as existing system.
-    * <strong>Supervisor:</strong> Mr. Uma Shankar Kesavan
 * <strong>Jun 2019 - Nov 2020 : Research Intern</strong>
     * <strong>Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram</strong>
     * Interned in the Computer Vision research group led by Dr. Umarani Jayaraman, and worked on multi-spectral image recognition. Co-authored a paper titled "Face Recognition in the Dark," and presented it at a conference.
-    * <strong>Supervisor:</strong> Dr. Umarani Jayaraman
 * <strong>July 2019 - October 2019 : Full Stack Developer</strong>
     * <strong>SSN Model United Nations 2019</strong>
     * Led a team of 3 developers in building the website for the college’s Model UN, hosted on a DigitalOcean droplet.

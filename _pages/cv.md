@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "resume"
+title: "Résumé"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! Here's my resume.
+Hi! Here's my résumé.
 
 Education
 ======

@@ -1,6 +1,6 @@
 ---
 title: "Face Recognition in the Dark: A Unified Approach for NIR- VIS and VIS- NIR Face Matching"
-collection: publication work
+collection: publications
 permalink: /publication/2020DarkFIR
 excerpt: "Cross-spectrum Face Matching"
 date: 2020-12-03

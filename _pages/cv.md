@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 Hi! 
-You can find a PDF version my resume [here](https://drive.google.com/file/d/1-5CHz7Yrp7IAnbHOkF9sxoZDOIdHsEZr/view?usp=sharing).
+You can find a PDF version my resume [here](https://drive.google.com/file/d/1YD203EDtjVnTxlPJs4q_DY6EJPbv8kXc/view?usp=sharing).
 
 I'm currently seeking Data Science, Software Engineering, and Research internships for the Summer of 2022. You can email me at [svenkoba@asu.edu](mailto:svenkoba@asu.edu). Looking forward to getting in touch!
 
@@ -23,16 +23,21 @@ Education
     * Anna University, Chennai, India; 2017-2021
     * CGPA: 8.63/10
 
+Publications
+======
+* N. R. Salim, U. Jayaraman and V. Srinath, ”Face Recognition in the Dark: A Unified Approach for NIR-VIS and VIS- NIR Face Matching,” 2020 IEEE 4th Conference on Information Communication Technology (CICT), 2020, pp. 1-12
+* Salim, N.R., V., S., Jayaraman, U. et al. Recognition in the near infrared spectrum for face, gender and facial expressions. Multimed Tools Appl (2021).
+
 Work experience
 ======
-* <strong>Data Science Intern</strong>
+* <strong>Machine Learning Intern</strong>
     * <strong>AstraZeneca, Chennai, India</strong> May 2020 - July 2020
     * Interned in the Predictive Modelling department of AstraZeneca. Worked on applying Machine Learning algorithms to Drug discovery. Analyzed various clustering algorithms to classify cancers based on genetic mutation data. 
     * Identified and resolved problems with algorithms, and inconsistencies in genetic mutation data. Reduced processing
 time for calculating intrinsic permeability by 50% while maintaining same performance as existing system.
 * <strong>Research Intern</strong>
     * <strong>Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram, India</strong> Jun 2019 - Nov 2020
-    * Interned in the Computer Vision research group led by Dr. Umarani Jayaraman, and worked on multi-spectral image recognition. Co-authored a paper titled "Face Recognition in the Dark," and presented it at a conference.
+    * Interned in the Computer Vision research group led by Dr. Umarani Jayaraman, and worked on multi-spectral image recognition. Co-authored papers on algorithms implemented for Face Recognition and Facial Expression Classification.
 * <strong>Full Stack Developer</strong>
     * <strong>SSN Model United Nations 2019, Chennai, India</strong> July 2019 - October 2019
     * Led a team of 3 developers in building the website for the college’s Model UN, hosted on a DigitalOcean droplet.

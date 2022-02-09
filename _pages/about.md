@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi there!
-I'm Srinath, a Master's student, studying Computer Science at Arizona State Univeristy, Tempe (2021-23).
+I'm Srinath, a Master's student, studying Computer Science at Arizona State University, Tempe (2021-23).
 
 I'm currently seeking Data Science, Machine Learning, Software Engineering, and Research internships for the Summer of 2022. You can email me at svenkoba@asu.edu. You can also find my resume [here](https://srinathvrao.github.io/resume/). Looking forward to getting in touch!
 

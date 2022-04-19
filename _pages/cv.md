@@ -13,8 +13,6 @@ redirect_from:
 Hi! 
 You can find a PDF version my resume [here](https://drive.google.com/file/d/1IBHKHg1LkIRbO0DBO79SpAEXrQPA9RvX/view?usp=sharing).
 
-I'm currently seeking Data Science, Software Engineering, and Research internships for the Summer of 2022. You can email me at [svenkoba@asu.edu](mailto:svenkoba@asu.edu). Looking forward to getting in touch!
-
 Education
 ======
 * <strong>M. S. in Computer Science</strong>

@@ -8,8 +8,6 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
-
 Hi! 
 You can find a PDF version my resume [here](https://drive.google.com/file/d/1IBHKHg1LkIRbO0DBO79SpAEXrQPA9RvX/view?usp=sharing).
 

@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 Hi!
-I'm Srinath- a Master's student studying Computer Science at Arizona State University, in Tempe, AZ.
+I'm Srinath- a Systems Software Engineer, working at ServiceNow, Kirkland, WA, since July '23.
 
-I worked as a Systems Engineer Intern at [ServiceNow](https://www.linkedin.com/company/servicenow/) in San Diego, where I worked with the OS Imaging Team- in building custom images of Operating Systems and Text Processing pipelines using Machine Learning. I was also a Machine Learning Intern at [AstraZeneca](https://www.linkedin.com/company/astrazeneca/), in the Predictive Modelling department, where I worked on applying ML algorithms to Drug discovery. I was also a Computer Vision Research intern at IIITD&M Kancheepuram, India, where I co-wrote 2 papers on face recognition in dark environments, and facial expression and gender classification.
+I was a Master's Student in CS @ Arizona State University.
 
-I build some fun stuff that I occasionally put [here](https://srinathvrao.github.io/year-archive/).
+I worked as a Software Engineer Intern at [ServiceNow](https://www.linkedin.com/company/servicenow/) in San Diego, where I worked on distributing Operating Systems and Text Processing pipelines. I was also a Machine Learning Intern at [AstraZeneca](https://www.linkedin.com/company/astrazeneca/), where I applied ML algorithms to Drug discovery. I was a Computer Vision Research intern at IIITD&M Kancheepuram, India, where I co-wrote 2 papers on face recognition in dark environments; and gender and facial expression classification.
 
-I also like solving Rubik's cubes and picking up new and obscure skills.
+I also like solving Rubik's cubes and picking up new and obscure skills. Recently, I've been exploring rock climbing.

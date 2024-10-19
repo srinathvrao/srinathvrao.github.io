@@ -9,58 +9,62 @@ redirect_from:
 ---
 
 Hi! 
-You can find a PDF version my resume [here](https://drive.google.com/file/d/1IBHKHg1LkIRbO0DBO79SpAEXrQPA9RvX/view?usp=sharing).
+You can find a PDF version of my resume [here](https://drive.google.com/file/d/1415zIFQ8Ky8bitb80HHDuMJTB3UBqIya/view?usp=sharing).
 
 Education
 ======
 * <strong>M. S. in Computer Science</strong>
     * Arizona State University, Tempe, AZ; 2021-2023
+    * GPA: 4.0
 * <strong>B. Tech. in Information Technology</strong>
     * Anna University, Chennai, India; 2017-2021
-    * CGPA: 8.63/10
-
-Publications
-======
-* N. R. Salim, U. Jayaraman and V. Srinath, ”Face Recognition in the Dark: A Unified Approach for NIR-VIS and VIS- NIR Face Matching,” 2020 IEEE 4th Conference on Information Communication Technology (CICT), 2020, pp. 1-12
-* Salim, N.R., V., S., Jayaraman, U. et al. Recognition in the near infrared spectrum for face, gender and facial expressions. Multimed Tools Appl (2021).
+    * GPA: 8.63/10
 
 Work experience
 ======
+* <strong>Systems Software Engineer</strong>
+    * <strong>ServiceNow, Kirkland, WA</strong> July 2023 - Present
+    * Utilized REST APIs in Python to introduce automation for Virtual Machine and bare-metal deployment validation in ServiceNow’s infrastructure. Reduced time taken for deployment validation from 10 days (average time for the manual process) to 3 days on average.
+    * Built a minimal in-memory OS Image (60MB in size) for clients to automate hard-disk erasure in ServiceNow’s production environments. Modified Puppet manifests and developed CI/CD pipelines using shell scripts and Python for image deployment. Eliminated the need for a RedHat-8 image, and the requirement to shred used disks, saving the company upwards of $2M/year.
+* <strong>Software Engineer Intern</strong>
+    * <strong>ServiceNow, San Diego, CA</strong> May 2022 - Aug 2022
+    * Implemented Hierarchical Attention Networks in a Natural Language processing pipeline to analyze vulnerability summaries from scanning software, reducing vulnerability owner identification time by 83% of existing process (1 week to 1 day).
+    * Developed an OS Image based on the RHEL7 kernel, to execute a disk wipe during the boot sequence. Opened 5 code review requests, and participated in stand-up meetings to ensure adherence to quality.
 * <strong>Machine Learning Intern</strong>
     * <strong>AstraZeneca, Chennai, India</strong> May 2020 - July 2020
-    * Interned in the Predictive Modelling department of AstraZeneca. Worked on applying Machine Learning algorithms to Drug discovery. Analyzed various clustering algorithms to classify cancers based on genetic mutation data. 
-    * Identified and resolved problems with algorithms, and inconsistencies in genetic mutation data. Reduced processing
-time for calculating intrinsic permeability by 50% while maintaining same performance as existing system.
-* <strong>Research Intern</strong>
-    * <strong>Indian Institute of Information Technology, Design, and Manufacturing, Kancheepuram, India</strong> Jun 2019 - Nov 2020
-    * Interned in the Computer Vision research group led by Dr. Umarani Jayaraman, and worked on multi-spectral image recognition. Co-authored papers on algorithms implemented for Face Recognition and Facial Expression Classification.
+    * Applied ML algorithms (Random Forest Regressors, Support Vector Regressors, Graph Convolutions) to drug-discovery problems such as estimating digestibility of drugs in human intestine. Compared Chem-Informatics algorithms for feature extraction from molecular structure representations. 
+    * Developed an ensemble ML algorithm with Random Forest and Support Vector Regressors which reduced feature extraction time from 15 seconds to 2 seconds per compound, and improved performance (RMSE) by 15%.
 * <strong>Full Stack Developer</strong>
     * <strong>SSN Model United Nations 2019, Chennai, India</strong> July 2019 - October 2019
     * Led a team of 3 developers in building the website for the college’s Model UN, hosted on a DigitalOcean droplet.
 
 Projects
 ======
-* <strong>VLocNet</strong>
-    * Pipeline to calculate the location and orientation of a camera relative to its environment from associated camera images.
-* <strong>Rubik’s Cube Pose Estimator</strong>
-    * Quaternion rotation estimator from a camera image of a Rubik’s Cube.
+* <strong>[instantgames.org](https://instantgames.org/)</strong>
+    * Chess-playing website made with TypeScript React + [InstantDB’s](https://www.instantdb.com/) React hooks.
 * <strong>PharmAssist</strong>
     * Android app to keep track of medicine dosages with prescriptions.
-    * <strong>Winner in Indian-subcontinent, and Global Runner-Up in AWS Challenge.</strong>
-* <strong>Expedia Hotel Recommender</strong>
-    * Recommending hotels to users on Expedia, based on their searching habits and interactions with the website.
 * <strong>Facial Attendace Manager</strong>
     * College-funded project.
     * Recognizing faces from images captured using a RaspberryPi interfaced with motion sensors.
+* <strong>VLocNet</strong>
+    * Pipeline to calculate the location and orientation of a camera relative to its environment from associated camera images.
+
+Publications
+======
+* N. R. Salim, U. Jayaraman and V. Srinath, ”Face Recognition in the Dark: A Unified Approach for NIR-VIS and VIS- NIR Face Matching,” 2020 IEEE 4th Conference on Information Communication Technology (CICT), 2020, pp. 1-12
+* Salim, N.R., V., S., Jayaraman, U. et al. Recognition in the near infrared spectrum for face, gender and facial expressions. Multimed Tools Appl (2021).
 
 Programming Languages
 ======
-* C/C++
-* Java
 * Python
+* TypeScript
+* Java
+* C/C++
 
 Frameworks
 ======
+* React
 * PyTorch
 * Keras
 * Dlib
@@ -73,13 +77,12 @@ Tools
 * AWS Lambda
 * Firebase
 * MongoDB
-* React JS
 
 Hobbies and interests
 ======
 * Rubik's Cube
-* Reading 
-* Space Exploration 
+* TV shows
+* Programming
 
 Service and leadership
 ======

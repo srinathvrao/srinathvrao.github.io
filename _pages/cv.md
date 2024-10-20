@@ -80,8 +80,8 @@ Tools
 
 Hobbies and interests
 ======
-* Rubik's Cube
 * TV shows
+* Rubik's Cube
 * Programming
 
 Service and leadership

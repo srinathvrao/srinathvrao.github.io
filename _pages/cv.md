@@ -1,24 +1,35 @@
 ---
 layout: archive
-title: "Résumé"
-permalink: /resume/
+title: "Portfolio"
+permalink: /portfolio/
 author_profile: true
 redirect_from:
+  - /resume/
+  - /resume
   - /cv/
   - /cv
+  - /portfolio/
+  - /portfolio
 ---
 
 Hi! 
 You can find a PDF version of my resume [here](https://drive.google.com/file/d/1415zIFQ8Ky8bitb80HHDuMJTB3UBqIya/view?usp=sharing).
 
+Projects
+======
+* <strong>[instantgames.org](https://instantgames.org/)</strong>
+    * Chess-playing website made with TypeScript React + [InstantDB’s](https://www.instantdb.com/) React hooks.
+* <strong>[VLocNet](https://github.com/srinathvrao/VLocNet)</strong>
+    * Pipeline to calculate the location and orientation of a camera relative to its environment from associated camera images.
+* <strong>PharmAssist</strong>
+    * Android app to keep track of medicine dosages with prescriptions.
+
 Education
 ======
-* <strong>M. S. in Computer Science</strong>
-    * Arizona State University, Tempe, AZ; 2021-2023
-    * GPA: 4.0
-* <strong>B. Tech. in Information Technology</strong>
-    * Anna University, Chennai, India; 2017-2021
-    * GPA: 8.63/10
+* <strong>M. S. in Computer Science</strong>, 2021-23 
+    * Arizona State University, Tempe, AZ; GPA: 4.0
+* <strong>B. Tech. in Information Technology</strong>, 2017-21
+    * Anna University, Chennai, India; GPA: 8.63/10
 
 Work experience
 ======
@@ -37,18 +48,6 @@ Work experience
 * <strong>Full Stack Developer</strong>
     * <strong>SSN Model United Nations 2019, Chennai, India</strong> July 2019 - October 2019
     * Led a team of 3 developers in building the website for the college’s Model UN, hosted on a DigitalOcean droplet.
-
-Projects
-======
-* <strong>[instantgames.org](https://instantgames.org/)</strong>
-    * Chess-playing website made with TypeScript React + [InstantDB’s](https://www.instantdb.com/) React hooks.
-* <strong>PharmAssist</strong>
-    * Android app to keep track of medicine dosages with prescriptions.
-* <strong>Facial Attendace Manager</strong>
-    * College-funded project.
-    * Recognizing faces from images captured using a RaspberryPi interfaced with motion sensors.
-* <strong>VLocNet</strong>
-    * Pipeline to calculate the location and orientation of a camera relative to its environment from associated camera images.
 
 Publications
 ======

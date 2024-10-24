@@ -4,12 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /resume/
-  - /resume
-  - /projects/
-  - /projects
-  - /cv/
   - /cv
+  - /resume
 ---
 
 Hi! 

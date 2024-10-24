@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 redirect_from:
   - /resume/
   - /resume
+  - /projects/
+  - /projects
   - /cv/
   - /cv
-  - /portfolio/
-  - /portfolio
 ---
 
 Hi! 

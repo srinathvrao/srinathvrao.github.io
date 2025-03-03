@@ -8,8 +8,7 @@ redirect_from:
   - /resume
 ---
 
-Hi! 
-You can find a PDF version of my resume [here](https://drive.google.com/file/d/1415zIFQ8Ky8bitb80HHDuMJTB3UBqIya/view?usp=sharing).
+Hi! These are some projects I've worked on over the last few years.
 
 Projects
 ======

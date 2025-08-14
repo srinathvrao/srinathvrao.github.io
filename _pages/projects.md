@@ -12,7 +12,7 @@ Hi! These are some projects I've worked on over the last few years.
 
 Projects
 ======
-* <strong>[instantgames.org](https://instantgames.org/)</strong>
+* <strong>[instant-chess](https://instant-chess.vercel.app/)</strong>
     * Chess-playing website made with TypeScript React + [InstantDB’s](https://www.instantdb.com/) React hooks.
 * <strong>[VLocNet](https://github.com/srinathvrao/VLocNet)</strong>
     * Pipeline to calculate the location and orientation of a camera relative to its environment from associated camera images.

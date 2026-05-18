@@ -12,6 +12,8 @@ Hi! These are some projects I've worked on over the last few years.
 
 Projects
 ======
+* <strong>[hungry.city](https://hungry.city/)</strong>
+    * Hun Gry, your resident NYC food expert built with AWS AgentCore. [(blog)](https://srinathvrao.github.io/posts/2026/1/hungrycity/)
 * <strong>[instant-chess](https://instant-chess.vercel.app/)</strong>
     * Chess-playing website made with TypeScript React + [InstantDB’s](https://www.instantdb.com/) React hooks.
 * <strong>[VLocNet](https://github.com/srinathvrao/VLocNet)</strong>
